@@ -14,7 +14,7 @@ Modern, etkileşimli ve görsel olarak zenginleştirilmiş bir yapılacaklar lis
 
 ## Kullanılan Teknolojiler
 
-- **HTML5** & **CSS3** (CSS Değişkenleri, Flexbox, Glassmorphism, Responsive Tasarım)
+- **HTML5** & **CSS3**
 - **JavaScript (ES6+)**
 - **Web Audio API**
 - **HTML5 Canvas API**
