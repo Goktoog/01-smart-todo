@@ -18,3 +18,6 @@ Modern, etkileşimli ve görsel olarak zenginleştirilmiş bir yapılacaklar lis
 - **JavaScript (ES6+)**
 - **Web Audio API**
 - **HTML5 Canvas API**
+
+## 🌐 Canlı Demo
+[Yapılacaklar Listesi](https://goktoog.github.io/01-smart-todo/)
